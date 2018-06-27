@@ -1,0 +1,18 @@
+﻿<Window x:Class="finishwork.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:finishwork"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="你要離開這裡了，請按確定鍵。" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="49,41,0,0" Width="413"/>
+        <Button Content="確定" HorizontalAlignment="Left" VerticalAlignment="Top" Width="155" Margin="258,116,0,0" Height="30" Click="Button_Click"/>
+        
+
+
+
+    </Grid>
+
+</Window>

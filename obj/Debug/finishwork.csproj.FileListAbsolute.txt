@@ -1,0 +1,15 @@
+C:\Users\matsu\Desktop\finishwork\finishwork\bin\Debug\finishwork.exe.config
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\finishwork.csprojResolveAssemblyReference.cache
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\MainWindow.g.cs
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\App.g.cs
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\finishwork_MarkupCompile.cache
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\finishwork_MarkupCompile.lref
+C:\Users\matsu\Desktop\finishwork\finishwork\bin\Debug\finishwork.exe
+C:\Users\matsu\Desktop\finishwork\finishwork\bin\Debug\finishwork.pdb
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\MainWindow.baml
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\finishwork.g.resources
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\finishwork.Properties.Resources.resources
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\finishwork.csproj.GenerateResource.Cache
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\finishwork.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\finishwork.exe
+C:\Users\matsu\Desktop\finishwork\finishwork\obj\Debug\finishwork.pdb
